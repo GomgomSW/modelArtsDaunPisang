@@ -1,0 +1,3 @@
+      <div class="well" data-bind="fileDrag: fileData, enable: onClear">
+        <input type="file" name="imgFilename" data-bind="fileInput: fileData" accept="image/*">
+      </div>
